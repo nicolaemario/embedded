@@ -1,4 +1,4 @@
-# Arduino Traffic Lights using Wowki
+# Arduino Traffic Lights using Wokwi
 
 ## Introduction
 
